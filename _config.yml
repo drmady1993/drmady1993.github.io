@@ -12,7 +12,7 @@ title                    : "Dayou Ma"
 title_separator          : "-"
 name                     : &name "Dayou Ma"
 description              : &description "Assistant Professor in Mechanical Engineering"
-url                      : https://drmady1993.github.io"
+url                      : "https://drmady1993.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drmady1993/drmady1993.github.io"
 
