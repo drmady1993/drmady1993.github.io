@@ -19,7 +19,8 @@ Since 2024, he has certificated as an associate professor by ASN (Italian Nation
 Research insights
 ======
 I would like to group ideas and efforts on design and support for structrue design under extreme conditions, including analysis and design in both exeperimental and numerical methods, specific for exploring new numerical methodology for efficiency and high-fidelity calculation for reducing the costs of the experiments.
-The research activities cover both numerical and experimental investigations, including but not limited to mechanical responses and fracture behaviours of materials under extreme conditions as well as multifunctional applications of composite materials. My current focuses are dynamic response of polymers and composites under impact loading conditions, stochastic modelling with material uncertainties considered, and the multifunctional modelling of (nano)composites. Besides, I am now trying to transfer my previous numerical/experimental methods for dynamic responses at material level to structural level. 
+The research activities cover both numerical and experimental investigations, including but not limited to mechanical responses and fracture behaviours of materials under extreme conditions as well as multifunctional applications of composite materials. My current focuses are dynamic response of polymers and composites under impact loading conditions, stochastic modelling with material uncertainties considered, and the multifunctional modelling of (nano)composites. Besides, I am now trying to transfer my previous numerical/experimental methods for dynamic responses at material level to structural level.
+
 ***Any related ideas on them are welcomed!!!***
 
 News
