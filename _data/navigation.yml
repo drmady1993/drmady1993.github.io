@@ -6,7 +6,7 @@
 
 main:
   - title: "Recognitions"
-    url: /Recognitions/   
+    url: /_Recognitions/   
 
   - title: "Projects"
     url: /year-archive/
