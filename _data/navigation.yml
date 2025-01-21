@@ -23,5 +23,5 @@ main:
   - title: "News"
     url: /portfolio/
     
-  - title: "Media"
-    url: /markdown/
+#  - title: "Media"
+#    url: /markdown/
