@@ -9,56 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Scientific membership
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Early Career Editorial Board of _International Journal of Structural Integrity_ (2024-present)
+* Promotion of Research into the Dynamic Behaviour of Materials and its Applications Association (DYMAT)
+* European Society for Composite Materials (ESCM)
+* European Structural Integrity Society (ESIS)
+* Italian Scientific Society of Mechanical Engineering and Structural Design (AIAS)
 
-Work experience
+Awards and fellowships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* IDEA League Fellowship (2024)
+*	Award for Short Term Scientific Mission, European Cooperation in Science and Technology (COST)-CA21155 (2023)
+*	PhD with honors (con Lode) at Politecnico di Milano (2021)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Invited lectures and semimars
+======
+* 2nd COST training school - _Constitutive Modelling-modeling of composite materials under high strain rates_ - University of Belgrade (Serbia) (2024/03)
+* 17th Seminar on solid mechanics - _Materials under extreme conditions_ - Beijing University of Technology (China) (2023/12)
+* LS-DYNA workshop - _Advanced Composite Modeling in LS-DYNA_ - Alberta University (Canada) (2023/06)
+* Marie Skłodowska-Curie Innovative Training Networks – “ENHAnCE’’ (H2020-MSCA-ITN-2019) - _A low velocity impact of composite pressure vessel with SHM monitoring_ - Politecnico di Milano (Italy) (2023/01)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Conference Chair
+======
+* Chair - ICCS28 (International Conference on Composite Structures) - 2025 - Special Session on _Thermoplastic composites under extreme conditions_
   
-Skills
+Journal Review
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* International Journal of Impact Engineering (IJIE)
+* International Journal of Mechanical Sciences (IJMS)
+* Composite Structures
+* Thin-Walled Structures
+* Journal of Composite Materials
+* Chinese Journal of Aeronautics
+* Material & Design
+* Defence Technology
+* Materials Today: Proceedings
+* Journal of Testing and Evaluation
+* Engineering Science and Technology, an International Journal
