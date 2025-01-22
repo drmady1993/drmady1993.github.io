@@ -9,7 +9,7 @@ main:
     url: /cv/
 
   - title: "Projects"
-    url: /year-archive/
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/  
@@ -21,7 +21,7 @@ main:
     url: /publications/
       
   - title: "News"
-    url: /portfolio/
+    url: /year-archive/
     
   - title: "Media"
     url: /talks/  
