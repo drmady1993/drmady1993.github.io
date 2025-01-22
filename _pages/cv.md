@@ -28,7 +28,7 @@ Invited lectures and semimars
 * 2nd COST training school - _Constitutive Modelling-modeling of composite materials under high strain rates_ - University of Belgrade (Serbia) (2024/03)
 * 17th Seminar on solid mechanics - _Materials under extreme conditions_ - Beijing University of Technology (China) (2023/12)
 * LS-DYNA workshop - _Advanced Composite Modeling in LS-DYNA_ - Alberta University (Canada) (2023/06)
-* Marie Skłodowska-Curie Innovative Training Networks – “ENHAnCE’’ (H2020-MSCA-ITN-2019) - _A low velocity impact of composite pressure vessel with SHM monitoring_ - Politecnico di Milano (Italy) (2023/01)
+* Marie Skłodowska-Curie Innovative Training Networks – “ENHAnCE’’ - _A low velocity impact of composite pressure vessel with SHM monitoring_ - Politecnico di Milano (Italy) (2023/01)
 
 Conference Chair
 ======
