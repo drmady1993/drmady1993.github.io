@@ -6,7 +6,7 @@
 
 main:
   - title: "Recognitions"
-    url: /recognitions.md
+    url: /cv/
 
   - title: "Projects"
     url: /year-archive/
@@ -15,7 +15,7 @@ main:
     url: /teaching/  
 
   - title: "People"
-    url: /cv/
+    url: /posts/
     
   - title: "Publications"
     url: /publications/
