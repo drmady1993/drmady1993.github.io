@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Finite Element Simulation For Design Products (062639)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2025femfordesign
