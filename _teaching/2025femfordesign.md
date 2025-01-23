@@ -1,7 +1,7 @@
 ---
 title: "Finite Element Simulation For Design Products (062639)"
 collection: teaching
-type: "Workshop"
+type: "Master degree course"
 permalink: /teaching/2025femfordesign
 venue: "University 1, Department"
 date: 2015-01-01
