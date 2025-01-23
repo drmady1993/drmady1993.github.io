@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Finite Element Simulation For Design Products (062639)"
 collection: teaching
-type: "Undergraduate course"
+type: "Master degree course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Politecnico di Milano, Department of Design"
+date: 2025
+location: "Milan, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course was opened in Department of Design and towards designers. The main topic of this course is to introduce the finite element method (FEM) and to computer aided engineering programs (CAE) applications to the simulation of mechanical systems, both simple and complex. The teaching introduces the fundamentals of the FEM method while also carrying out a review of the main concepts of mechanics and resistance of materials, allowing students to use these software tools during their design works. Specifically, more attention was paid on the general analysis and production design, instead of complicated mathematical equations. Besides, basic knowledge on Finite Element Method is delivered as well as development of Finite Element model fitting for purpose. At the very end, validation and analysis based on the results of Finite Element calculations was introduced. As the main teacher for this course, I started taking this course with both lectures and practices since 2025. More interesting topics such as advanced material design and multiscale modeling were introduced by me.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<br/><img src='/images/FEMfordesign.png'> 
