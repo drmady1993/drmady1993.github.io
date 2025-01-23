@@ -1,7 +1,7 @@
 ---
 title: "Finite Element Simulation For Design Products (062639)"
 collection: teaching
-type: "Master degree course"
+type: "whorkshop"
 permalink: /teaching/2025femfordesign
 venue: "Politecnico di Milano, Department of Design"
 date: 2025-01-01
