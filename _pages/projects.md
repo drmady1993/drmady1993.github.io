@@ -30,7 +30,7 @@ _Funded by COST Action_
 "DIGES: Digital twin of lunar exploration systems" _funded by Agenzia Spaziale Italiana_ 2022-2024  
 
 ---
-“Structural Modeling & Health monitoring of Composite pressure vessels under extreme loadings” _funded by italian PNRR_ 2021-2024  
+“Structural Modeling & Health monitoring of Composite pressure vessels under extreme loadings” _funded by Italian PNRR_ 2021-2024  
 
 ---
 "STREAM: Intelligent and functionalized structures for the improvement of aerostructural performance " _funded by Italian Ricerca e Innovazione_ 2021-2022  
