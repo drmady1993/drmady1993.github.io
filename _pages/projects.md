@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-CertainPLUS: Uncover the uncertainty effect for thermoplastic composites from manufacture to extreme loading conditions
+CertainPLUS: Uncover the uncertainty effect for thermoplastic composites from manufacture to extreme loading conditions  
 2024-2025
 ---
 
@@ -16,7 +16,7 @@ This project aims to modelling the uncertainty founded during manufactrue of the
 _Funded by IDEA League Fellowship_
 
 ---
-HISTRATE: advanced composites under high strain rates loading: a route to certification-by-analysis
+HISTRATE: advanced composites under high strain rates loading: a route to certification-by-analysis  
 2023-2026
 ---
 
@@ -25,6 +25,14 @@ The project aims to establish the scientific and technological foundations for t
 _Funded by COST Action_
 
 ---
-SAMAS 2: Structural Health and Ballistic Impact Monitoring and Prognosis on Helicopters
-2021-2024
+"SAMAS 2: Structural Health and Ballistic Impact Monitoring and Prognosis on Helicopters" _funded by EDA_ 2021-2024
+---
+---
+"DIGES: Digital twin of lunar exploration systems" _funded by Agenzia Spaziale Italiana_ 2022-2024
+---
+---
+“Structural Modeling & Health monitoring of Composite pressure vessels under extreme loadings” _funded by italian PNRR_ 2021-2024
+---
+---
+"STREAM: Intelligent and functionalized structures for the improvement of aerostructural performance " _funded by Italian Ricerca e Innovazione_ 2021-2022
 ---
