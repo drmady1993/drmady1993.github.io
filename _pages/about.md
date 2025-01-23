@@ -22,11 +22,3 @@ I would like to group ideas and efforts on design and support for structrue desi
 The research activities cover both numerical and experimental investigations, including but not limited to mechanical responses and fracture behaviours of materials under extreme conditions as well as multifunctional applications of composite materials. My current focuses are dynamic response of polymers and composites under impact loading conditions, stochastic modelling with material uncertainties considered, and the multifunctional modelling of (nano)composites. Besides, I am now trying to transfer my previous numerical/experimental methods for dynamic responses at material level to structural level.
 
 ***Any related ideas on them are welcomed!!!***
-
-News
------
--3rd.
-
-*update 2nd.
-
-+the first news to update.
