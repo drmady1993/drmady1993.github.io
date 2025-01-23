@@ -11,7 +11,7 @@ redirect_from:
 **CertainPLUS: Uncover the uncertainty effect for thermoplastic composites from manufacture to extreme loading conditions**  
 **2024-2025**
 
-<br/><img src='/images/work in process.png'>  
+<br/><img src='images/work in process.PNG'>  
 This project aims to modelling the uncertainty founded during manufactrue of thermoplastic composites and its effect on their mechanical performance under impact loading. Numerical method are aplied while the experimental activities are performed for validation.  
 _Funded by IDEA League Fellowship_
 
