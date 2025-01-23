@@ -16,7 +16,7 @@ This project aims to modelling the uncertainty founded during manufactrue of the
 _Funded by IDEA League Fellowship_
 
 ---
-**HISTRATE: advanced composites under high strain rates loading: a route to certification-by-analysis**  
+**HISTRATE: Advanced composites under high strain rates loading: a route to certification-by-analysis**  
 **2023-2026**
 
 <br/><img src='/images/COSTSTSM.png'>  
