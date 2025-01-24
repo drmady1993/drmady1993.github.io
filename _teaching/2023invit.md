@@ -2,7 +2,7 @@
 title: "Advanced Composite Modeling in LS-DYNA"
 collection: teaching
 type: "Invited lecture"
-permalink: /teaching/2024invit
+permalink: /teaching/2023invit
 venue: "LS-DYNA workshop, Alberta University"
 date: 2023-07-01
 location: "Alberta, Canada"
