@@ -18,7 +18,7 @@ main:
     url: /people/
     
   - title: "Publications"
-    url: /pages/publications+.md
+    url: /publicationplus/
       
   - title: "News"
     url: /year-archive/
