@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "*Welcome to my website!!!*"
+title: "*Dayou Ma at POLIMI*"
 author_profile: true
 redirect_from: 
   - /about/
