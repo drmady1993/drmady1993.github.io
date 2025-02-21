@@ -19,7 +19,7 @@ Scientific membership
 
 Awards and fellowships
 ======
-* IDEA League Fellowship (2024)
+* IDEA League Fellowship (2025)
 * National Scientific Ability (ASN) certification as Associate Professor (2024)
 * Elected into POLIMI Talent Development Programme (2024)
 *	Award for Short Term Scientific Mission, European Cooperation in Science and Technology (COST)-CA21155 (2023)
