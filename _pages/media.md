@@ -9,7 +9,7 @@ redirect_from:
 
 2025-03 _POLIMI reported my Fellowship as young researchers' awards and oppotunities!_
 ---
-check where is me below~~
+check where I am from below~~
 [<br/><img src='/images/20250317.png'>](https://www.linkedin.com/posts/polimi_premiati-i-vincitori-dei-percorsi-di-talent-activity-7306607603806044160-YliE/?utm_source=share&utm_medium=member_ios&rcm=ACoAACmZVoEBBiKXl2H5y86ciulGHqgOyFA25TI)
 
 2024-12 _I am at DMEC magazine!!!_
