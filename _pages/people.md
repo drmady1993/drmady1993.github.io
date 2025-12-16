@@ -16,18 +16,18 @@ _Development of meshless methodology based on Hellinger-Reissner principle towar
 **[Shunqi Zhang](https://www.mecc.polimi.it/en/phd/our-phd-students/xxxix/shunqi-zhang)** @Politecnico di Milano  
 _Numerical investigation and machine learning method for composite materials under low velocity impact_
 
-**[Shiva Rezaei Akbarieh](https://mecc.polimi.it/dottorato/i-nostri-dottorandi/xxxvii-ciclo/shiva-rezaei-akbarieh)** @Politecnico di Milano  
-_Structural Modeling & Health monitoring of Composite pressure vessels under extreme loadings_  
-
 ---
 _**Master students**_
 ---
-_**Emre Konkan**_  
-_Experimental investigations on mechanical responses of thermoplastic composites under low velocity impact_
+_**NN**_  
+_NN_
 
 ---
 _**Former members**_
 ---
+* Shiva Rezaei Akbarieh, PhD, "Structural Modeling & Health monitoring of Composite pressure vessels under extreme loadings", Politecnico di Milano (2022-2025)
+
+* Emre Konkan, MSc., "Experimental investigations on mechanical responses of thermoplastic composites under low velocity impact", Politecnico di Milano (2023-2024)
 * Weina Zhang, MSc., “[Investigation on the mechanical behaviors of structural battery with composite materials](https://www.politesi.polimi.it/handle/10589/210558)”, Politecnico di Milano (2022-2023)
 * Erik Renhard, MSc., “Numerical method for fracture behaviours of ductile materials”, Politecnico di Milano (2022-2023)
 * Regina Mardegan, MSc., “Experimental and numerical investigations of hybrid composite materials”, Politecnico di Milano (2023)
