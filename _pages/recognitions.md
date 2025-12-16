@@ -19,6 +19,7 @@ Scientific membership
 
 Awards and fellowships
 ======
+* Rocca Fellowship (2026)
 * IDEA League Fellowship (2025)
 * National Scientific Ability (ASN) certification as Associate Professor (2024)
 * Elected into POLIMI Talent Development Programme (2024)
@@ -34,6 +35,7 @@ Invited lectures and semimars
 
 Conference Chair
 ======
+* Chair - ECCM22 (European Conference on Composite Materials) - 2026 - Special Session on _Impact dynamics of composites_
 * Chair - ICCS28 (International Conference on Composite Structures) - 2025 - Special Session on _Thermoplastic composites under extreme conditions_
   
 Journal Review
