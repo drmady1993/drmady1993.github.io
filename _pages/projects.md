@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 ---
+**TNE-LEGO: Efficient design of chiral composite structures with high energy absorption but lightweight during impact as solution of green aviation**  
+**2025**
+
+<br/><img src='/images/workinprocess.png'>  
+This project aims to develop an advanced structure for high performance on impact resistance. The structures will be made by polymers and achieved with 3D printing technology. The domainate part of the project will be finished at Xi'an Jiaotong University.  
+_Funded by PNRR from Italian University and Research Ministry_
+
+---
 **CertainPLUS: Uncover the uncertainty effect for thermoplastic composites from manufacture to extreme loading conditions**  
 **2024-2025**
 
