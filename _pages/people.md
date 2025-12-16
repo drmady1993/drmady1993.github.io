@@ -19,8 +19,8 @@ _Numerical investigation and machine learning method for composite materials und
 ---
 _**Master students**_
 ---
-_**NN**_  
-_NN_
+_**Hiring**_  
+_Updating_
 
 ---
 _**Former members**_
