@@ -9,7 +9,10 @@ redirect_from:
 
 _**PhD students**_
 ---
-<br/><img src='/images/150*150.png'>  
+
+**[Siqi Wang](https://www.mecc.polimi.it/en/staff/siqi.wang)** @Politecnico di Milano
+_Development of meshless methodology based on Hellinger-Reissner principle towards engineering thin-walled structures_
+
 **[Shunqi Zhang](https://www.mecc.polimi.it/en/phd/our-phd-students/xxxix/shunqi-zhang)** @Politecnico di Milano  
 _Numerical investigation and machine learning method for composite materials under low velocity impact_
 
