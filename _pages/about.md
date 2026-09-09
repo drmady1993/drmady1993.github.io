@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dayou Ma, an assistant professor in [Department of Mechanical Engineering](https://www.mecc.polimi.it/en/research/faculty/dayou-ma) at Politecnico di Milano. I strive to uncover the nonlinear, damage and failure mechanical properties of materials under extreme/dynamic conditions.
+I am Dayou Ma, fix-term researcher in [Department of Mechanical Engineering](https://www.mecc.polimi.it/en/research/faculty/dayou-ma) at Politecnico di Milano. I strive to uncover the nonlinear, damage and failure mechanical properties of materials under extreme/dynamic conditions.
 
 Biography
 ======
