@@ -19,6 +19,7 @@ Scientific membership
 
 Awards and fellowships
 ======
+* A. CAPOCACCIA Award _as outstanding young researcher under 35_ (2026)
 * Rocca Fellowship (2026)
 * IDEA League Fellowship (2025)
 * National Scientific Ability (ASN) certification as Associate Professor (2024)
