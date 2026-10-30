@@ -20,16 +20,8 @@ _Funded by Tech European Foundation_
 **2025**
 
 <br/><img src='/images/chiralstructure.png'>  
-This project aims to develop an advanced structure for high performance on impact resistance. The structures will be made by polymers and achieved with 3D printing technology. The domainate part of the project will be finished at Xi'an Jiaotong University. We investigated the possibility of applying the hybid 3D printing to the chiral structures, while an efficient analytical model was developed based on the relationship between the load and the rotation angle, instead of loading displacement as typical use, to avoid the description of the nonlinear behaviors. More details can be found here: https://www.sciencedirect.com/science/article/pii/S002074032601009X#sec0013
+This project aims to develop an advanced structure for high performance on impact resistance. The structures will be made by polymers and achieved with 3D printing technology. The domainate part of the project will be finished at Xi'an Jiaotong University. We investigated the possibility of applying the hybid 3D printing to the chiral structures, while an efficient analytical model was developed based on the relationship between the load and the rotation angle, instead of loading displacement as typical use, to avoid the description of the nonlinear behaviors. More details can be found [here](https://www.sciencedirect.com/science/article/pii/S002074032601009X#sec0013)
 _Funded by PNRR from Italian University and Research Ministry_
-
----
-**CertainPLUS: Uncover the uncertainty effect for thermoplastic composites from manufacture to extreme loading conditions**  
-**2024-2025**
-
-<br/><img src='/images/workinprocess.png'>  
-This project aims to modelling the uncertainty founded during manufactrue of thermoplastic composites and its effect on their mechanical performance under impact loading. Numerical method are aplied while the experimental activities are performed for validation.  
-_Funded by IDEA League Fellowship_
 
 ---
 **HISTRATE: Advanced composites under high strain rates loading: a route to certification-by-analysis**  
@@ -38,6 +30,9 @@ _Funded by IDEA League Fellowship_
 <br/><img src='/images/COSTSTSM.png'>  
 The project aims to establish the scientific and technological foundations for the creation and implementation of a reliable and robust framework for the certification by analysis of advanced composite load-bearing structures subject to high strain rate loading. A sub-project was funded with topic "Optimal matrix for composite materials under impact loading conditions" (2023).  
 _Funded by COST Action_
+
+---
+"CertainPLUS: Uncover the uncertainty effect for thermoplastic composites from manufacture to extreme loading conditions" _funded by IDEA League Fellowship_ 2024-2026  
 
 ---
 "SAMAS 2: Structural Health and Ballistic Impact Monitoring and Prognosis on Helicopters" _funded by EDA_ 2021-2024  
