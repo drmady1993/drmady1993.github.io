@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+2026-09 _POLIMI reported our A. Capocaccia Award from AIAS for outstanding young researchers uner 35!_
+---
+[See what they posted](https://www.mecc.polimi.it/en/all-news/award-winning-research-on-thermoplastic-composites)
+
+---
+
 2025-03 _POLIMI reported my Fellowship as young researchers' awards and oppotunities!_
 ---
 check where I am from below~~
